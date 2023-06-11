@@ -1,5 +1,7 @@
 # news-topic-classification-with-bert
 
+First posted on my [Kaggle](https://www.kaggle.com/code/wesleyacheng/news-topic-classification-with-bert/notebook).
+
 <img width="329" alt="breaking-news" src="https://github.com/wesleyacheng/news-topic-classification-with-bert/assets/15952538/de5ca5f9-6a5d-4610-ad88-e1af2e9f1622">
 
 **BREAKING: We are making a news topic classifier!**
